@@ -25,4 +25,8 @@ public class Test {
 	    System.out.println("hello word");
 	    return "helloworld";
 	}
+	
+	public String publish(){
+		return "come on";
+	}
 }
