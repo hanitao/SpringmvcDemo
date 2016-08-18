@@ -12,10 +12,6 @@ package com.cus.test.shop;
  */
 public class Test {
 
-	
-	
-	
-	
 	/**
 	 * @param var
 	 * @param var2
@@ -23,5 +19,10 @@ public class Test {
 	 */
 	public String test(String var,String var2){
 		return null;
+	}
+	
+	public String say(){
+	    System.out.println("hello word");
+	    return "helloworld";
 	}
 }
